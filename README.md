@@ -6,7 +6,7 @@
 The following data is given:
 data =[1.42, 5.01, 2.45, 1.92, 1.41, 4.83, 1.81] 
 It is known to be sampled identicaly and without statistical dependency from a probability source upholding:
-$$ 𝑃(𝑥|𝜇, 𝜎^2) \sim 𝒩(𝜇, 𝜎^2) $$
+$$𝑃(𝑥|𝜇, 𝜎^2) \sim 𝒩(𝜇, 𝜎^2)$$
 
 ### Assignments:
 
