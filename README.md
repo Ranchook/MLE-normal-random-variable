@@ -15,7 +15,7 @@ $$𝑃(𝑥|𝜇, 𝜎^2) \sim 𝒩(𝜇, 𝜎^2)$$
 
     1. a. Calculate the model parameters according to the data.
        b. Plot a graph showing the distribution of 𝒩 on x axis.
-    2. The true values of 𝜇 and 𝜎 are given. 𝜇 = 2, 𝜎 = 1.5, compare that to the distribution you calculated.
+    2. The true values of 𝜇 and 𝜎 are given. 𝜇 = 2, 𝜎 = 1.5, Plot it and compare to the distribution you calculated
     3. Generate a new sample series with length N=30 from a normal distribution with the true parameters 
        and repeate tasks 1, 2.
     4. Repeat task 3 10 times and create a single graph with the original distribuition and all the 10 distributions 
