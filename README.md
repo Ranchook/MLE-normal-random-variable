@@ -1,5 +1,5 @@
 # Maximum Likelihood Estimation of a normal random variable
-1st class exercise in intro ML and data science course.
+1st class project  in intro ML and data science course.
 
 Maximum Likelihood Estimation (MLE) is a method used in statistics to estimate the parameters of a probability distribution by maximizing a likelihood function. The likelihood function measures how likely it is to observe the given sample data for different parameter values. MLE selects the parameter values that maximize this likelihood, making the observed data most probable.
 
